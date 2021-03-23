@@ -1,41 +1,4 @@
-#EXTM3U
-#EXTINF:-1, == SULUK IPTV ==
-https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
-#EXTINF:-1,Suluk® → Channel 8
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/04.m3u8
-#EXTINF:-1,Suluk® → Channel 5
-https://dlau142f16b92.cloudfront.net/hls/ch5pcweb/04.m3u8
-#EXTINF:-1,Suluk® → Channel U
-https://d3inlz9elsutjl.cloudfront.net/hls/chupcweb/04.m3u8
-#EXTINF:-1,Suluk® → Channel News Asia
-https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
-#EXTINF:-1,Suluk® → OKTO
-https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
-#EXTINF:-1,Suluk® → MYTV
-http://103.242.13.90:5555/udp/239.4.1.56:10000
-#EXTINF:-1,Suluk® → CTN
-http://103.242.13.90:5555/udp/239.4.1.57:10000
-#EXTINF:-1,Suluk® → CNC
-http://103.242.13.90:5555/udp/239.4.1.55:10000
-#EXTINF:-1,Suluk® → MTV China
-http://103.242.13.90:5555/udp/239.4.1.71:10000
-#EXTINF:-1,Suluk® → RTM1
-http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
-#EXTINF:-1,Suluk® → RTM2
-http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
-#EXTINF:-1,Suluk® → TV3
-http://103.242.13.90:5555/udp/239.4.1.214:10000
-#EXTINF:-1,Suluk® → ASTRO SPORT
-http://103.242.13.90:5555/udp/239.4.1.148:10000
-#EXTINF:-1,Suluk® → ASTRO ARENA
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-#EXTINF:-1,Suluk® → SONY ESPN HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
-#EXTINF:-1,Suluk® → SONY SIX HD
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
-#EXTINF:-1,Suluk® → SONY TEN 1 HD
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
-#EXTINF:-1,Suluk® → SONY TEN 2 HD
+
 http://mhms9.airtel.tv/PLTV/88888888/224/3221226077/02.m3u8
 #EXTINF:-1,Suluk® → SONY TEN 3 HD
 http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8
